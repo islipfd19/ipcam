@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="32000">IP Cam</string>
+
+  <string id="32001">Camera</string>
+  <string id="32002">URL</string>
+  
+  <string id="32051">Advanced</string>
+  <string id="32052">Debug logging</string>
+  <string id="32053">Off</string>
+  <string id="32054">Normal</string>
+  <string id="32055">Verbose</string>
+  
+  <string id="32101">Please check the camera settings</string>
+  <string id="32102">URL not set</string>
+</strings>
+
+

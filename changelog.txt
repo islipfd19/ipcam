@@ -1,0 +1,3 @@
+7.0.100
+- Initial addon
+- Credit to Leopold as this addon was adopted from his
